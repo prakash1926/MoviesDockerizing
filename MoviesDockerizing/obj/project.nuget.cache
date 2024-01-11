@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jdo0LQZIvpyws2v6OZLKvzHb1RyYBP+gxy4MmXCJt3sAFA8KDb7yQJ/XK0qnsIfG5Wtcy4ySP27GZAP7DYgTaw==",
+  "success": true,
+  "projectFilePath": "C:\\Mphasis\\Simplilearn\\Phase4\\day5\\MoviesDockerizing\\MoviesDockerizing\\MoviesDockerizing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anant\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

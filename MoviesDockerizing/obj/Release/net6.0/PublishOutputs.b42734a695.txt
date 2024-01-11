@@ -1,0 +1,5 @@
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Release\net6.0\publish\MoviesDockerizing.exe
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Release\net6.0\publish\MoviesDockerizing.dll
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Release\net6.0\publish\MoviesDockerizing.deps.json
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Release\net6.0\publish\MoviesDockerizing.runtimeconfig.json
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Release\net6.0\publish\MoviesDockerizing.pdb

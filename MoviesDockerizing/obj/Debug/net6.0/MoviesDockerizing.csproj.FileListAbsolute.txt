@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Debug\net6.0\MoviesDockerizing.exe
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Debug\net6.0\MoviesDockerizing.deps.json
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Debug\net6.0\MoviesDockerizing.runtimeconfig.json
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Debug\net6.0\MoviesDockerizing.dll
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\bin\Debug\net6.0\MoviesDockerizing.pdb
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\MoviesDockerizing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\MoviesDockerizing.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\MoviesDockerizing.AssemblyInfo.cs
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\MoviesDockerizing.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\MoviesDockerizing.dll
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\refint\MoviesDockerizing.dll
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\MoviesDockerizing.pdb
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\MoviesDockerizing.genruntimeconfig.cache
+C:\Mphasis\Simplilearn\Phase4\day5\MoviesDockerizing\MoviesDockerizing\obj\Debug\net6.0\ref\MoviesDockerizing.dll
